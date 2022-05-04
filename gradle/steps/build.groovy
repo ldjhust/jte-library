@@ -1,3 +1,3 @@
 void call() {
-  println "Hello JTE From Greeadle"
+  println 'Hello JTE From Greeadle'
 }
